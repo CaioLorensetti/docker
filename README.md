@@ -2,7 +2,7 @@ These are about Docker usual stuff.
 
 Compose up
 ```
-docker compose up
+docker compose up the [docker-compose.yaml](docker-compose.yaml)
 ```
 To run in background `up -d`
 
