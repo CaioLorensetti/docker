@@ -1,8 +1,8 @@
 These are about Docker usual stuff.
 
-Compose up
+Compose up the [docker-compose.yaml](docker-compose.yaml)
 ```
-docker compose up the [docker-compose.yaml](docker-compose.yaml)
+docker compose up
 ```
 To run in background `up -d`
 
